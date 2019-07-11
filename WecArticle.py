@@ -6,13 +6,6 @@ import csv
 import time
 import os
 
-'''
-作者：pk哥
-公众号：brucepk
-日期：2018/09/27
-代码解析详见公众号。
-如疑问或需转载，请联系微信号：dyw520520，备注来意，谢谢。
-'''
 
 
 browser = webdriver.Chrome()
